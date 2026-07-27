@@ -22,5 +22,5 @@ Findings show correlation, not proven causation. A next step would test whether 
 SQL (MySQL) · Excel · Power BI
 
 ## Files in This Folder
-- 'queries.sql' — all SQL queries used in the analysis
+- [queries.sql](./queries.sql) — all SQL queries used in the analysis
 - Full write-up and dashboard screenshots: https://gulnaaz-analytics.notion.site/Project-1-Delivery-Risk-Analysis-Olist-Marketplace-3aa31cdd201d806ba310fcfebdc7eb9f
