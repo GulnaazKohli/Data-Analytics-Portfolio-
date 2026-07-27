@@ -24,5 +24,5 @@ These are observed correlations, not causal proof. A next step would be testing 
 SQL (MySQL) · Excel · interactive dashboard
 
 ## Files in This Folder
-- `queries2.sql` — all SQL queries used in the analysis
+- [queries.sql](./queries.sql) — all SQL queries used in the analysis
 - Full write-up and dashboard screenshots: https://gulnaaz-analytics.notion.site/Project-2-Telco-Customer-Churn-Analysis-3aa31cdd201d8088b6a0dde79dd74758
