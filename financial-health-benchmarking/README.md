@@ -32,5 +32,5 @@ streamlit run app.py
 
 ## Files
 - `tcs_infosys_wipro_financials.xlsx` — full data + calculations
-- `app.py` — Streamlit dashboard
+- `app2.py` — Streamlit dashboard
 - SQL queries — see `queries.sql`
